@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rucha Mangalekar</h1>
 <h3 align="center">I love to turn data into insights</h3>
-<img align="right" alt="Coding" width="600" src="https://media.istockphoto.com/id/1363755668/vector/woman-in-vr-headset-exploring-digital-interface-and-working-with-data.jpg?s=612x612&w=0&k=20&c=ZOiPBBDC4IDM519Gq4hmvbrx0Gpc649jpPw061QoGhM=">
+<img align="right" alt="Coding" width="1000" src="https://media.istockphoto.com/id/1363755668/vector/woman-in-vr-headset-exploring-digital-interface-and-working-with-data.jpg?s=612x612&w=0&k=20&c=ZOiPBBDC4IDM519Gq4hmvbrx0Gpc649jpPw061QoGhM=">
 
 - 🔭 I’m currently working on **abc**
 
