@@ -8,9 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science and Business Intelligence**
 
-- 👨‍💻 All of my projects are available at [xyz](xyz)
-
-- 💬 Ask me about **abc**
+- 💬 Ask me about **Data, Dance and Hikes**
 
 - 📫 How to reach me **mangalekar.r@northeastern.edu**
 
