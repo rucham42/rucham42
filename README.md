@@ -2,7 +2,7 @@
 <h3 align="center">I love to turn data into insights</h3>
 <img align="right" alt="Coding" width="1000" src="https://media.istockphoto.com/id/1363755668/vector/woman-in-vr-headset-exploring-digital-interface-and-working-with-data.jpg?s=612x612&w=0&k=20&c=ZOiPBBDC4IDM519Gq4hmvbrx0Gpc649jpPw061QoGhM=">
 
-- 🔭 I’m currently working on **abc**
+
 
 - 🌱 I’m currently pursuing **Master of Science in Information Systems**
 
@@ -13,8 +13,6 @@
 - 💬 Ask me about **abc**
 
 - 📫 How to reach me **mangalekar.r@northeastern.edu**
-
-- 📄 Know about my experiences []()
 
 - ⚡ Fun fact **When I'm not diving into the world of data and technology, you can find me exploring new hiking trails and capturing the beauty of nature through my photography skills. I enjoy the perfect blend of analytical thinking and artistic creativity in both my professional and personal pursuits!"**
 
